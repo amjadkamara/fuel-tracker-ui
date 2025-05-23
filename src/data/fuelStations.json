@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Shell Gas Station",
-    "pricePerLiter": "1.45",
+    "pricePerLiter": 1.45,
     "city": "Los Angeles",
     "address": "123 Main St",
     "hours": "6 AM – 10 PM"
@@ -10,7 +10,7 @@
   {
     "id": 2,
     "name": "Chevron Express",
-    "pricePerLiter": "1.49",
+    "pricePerLiter": 1.49,
     "city": "San Francisco",
     "address": "456 Market St",
     "hours": "7 AM – 11 PM"
@@ -18,9 +18,82 @@
   {
     "id": 3,
     "name": "76 Fuel Stop",
-    "pricePerLiter": "1.42",
+    "pricePerLiter": 1.42,
     "city": "San Diego",
     "address": "789 Ocean Blvd",
     "hours": "5 AM – 12 AM"
+  },
+  {
+    "id": 4,
+    "name": "BP Connect",
+    "pricePerLiter": 1.50,
+    "city": "Sacramento",
+    "address": "101 State St",
+    "hours": "6 AM – 9 PM"
+  },
+  {
+    "id": 5,
+    "name": "Arco Station",
+    "pricePerLiter": 1.39,
+    "city": "Fresno",
+    "address": "202 Valley Rd",
+    "hours": "24 Hours"
+  },
+  {
+    "id": 6,
+    "name": "Costco Fuel",
+    "pricePerLiter": 1.35,
+    "city": "Irvine",
+    "address": "303 Costco Blvd",
+    "hours": "9 AM – 8 PM"
+  },
+  {
+    "id": 7,
+    "name": "Mobil Fast Fuel",
+    "pricePerLiter": 1.47,
+    "city": "Pasadena",
+    "address": "404 Pasadena St",
+    "hours": "6 AM – 11 PM"
+  },
+  {
+    "id": 8,
+    "name": "Valero Gas",
+    "pricePerLiter": 1.52,
+    "city": "Oakland",
+    "address": "505 East Bay Ave",
+    "hours": "7 AM – 10 PM"
+  },
+  {
+    "id": 9,
+    "name": "Exxon Rapid",
+    "pricePerLiter": 1.44,
+    "city": "Bakersfield",
+    "address": "606 Highway Dr",
+    "hours": "5 AM – 11 PM"
+  },
+  {
+    "id": 10,
+    "name": "Speedway Fuel",
+    "pricePerLiter": 1.48,
+    "city": "Santa Monica",
+    "address": "707 Oceanfront Rd",
+    "hours": "6 AM – 12 AM"
+  },
+  {
+    "id": 11,
+    "name": "Sunoco Fuel Center",
+    "pricePerLiter": 1.46,
+    "city": "Glendale",
+    "address": "808 Central Ave",
+    "hours": "6 AM – 10 PM"
+  },
+  {
+    "id": 12,
+    "name": "Phillips 66",
+    "pricePerLiter": 1.43,
+    "city": "Anaheim",
+    "address": "909 Stadium Dr",
+    "hours": "7 AM – 11 PM"
   }
 ]
+

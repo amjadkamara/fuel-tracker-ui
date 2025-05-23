@@ -5,7 +5,9 @@
     "pricePerLiter": 1.45,
     "city": "Los Angeles",
     "address": "123 Main St",
-    "hours": "6 AM – 10 PM"
+    "hours": "6 AM – 10 PM",
+    "latitude": 34.0522,
+    "longitude": -118.2437
   },
   {
     "id": 2,
@@ -13,7 +15,9 @@
     "pricePerLiter": 1.49,
     "city": "San Francisco",
     "address": "456 Market St",
-    "hours": "7 AM – 11 PM"
+    "hours": "7 AM – 11 PM",
+    "latitude": 37.7749,
+    "longitude": -122.4194
   },
   {
     "id": 3,
@@ -21,15 +25,19 @@
     "pricePerLiter": 1.42,
     "city": "San Diego",
     "address": "789 Ocean Blvd",
-    "hours": "5 AM – 12 AM"
+    "hours": "5 AM – 12 AM",
+    "latitude": 32.7157,
+    "longitude": -117.1611
   },
   {
     "id": 4,
     "name": "BP Connect",
-    "pricePerLiter": 1.50,
+    "pricePerLiter": 1.5,
     "city": "Sacramento",
     "address": "101 State St",
-    "hours": "6 AM – 9 PM"
+    "hours": "6 AM – 9 PM",
+    "latitude": 38.5816,
+    "longitude": -121.4944
   },
   {
     "id": 5,
@@ -37,7 +45,9 @@
     "pricePerLiter": 1.39,
     "city": "Fresno",
     "address": "202 Valley Rd",
-    "hours": "24 Hours"
+    "hours": "24 Hours",
+    "latitude": 36.7378,
+    "longitude": -119.7871
   },
   {
     "id": 6,
@@ -45,7 +55,9 @@
     "pricePerLiter": 1.35,
     "city": "Irvine",
     "address": "303 Costco Blvd",
-    "hours": "9 AM – 8 PM"
+    "hours": "9 AM – 8 PM",
+    "latitude": 33.6846,
+    "longitude": -117.8265
   },
   {
     "id": 7,
@@ -53,7 +65,9 @@
     "pricePerLiter": 1.47,
     "city": "Pasadena",
     "address": "404 Pasadena St",
-    "hours": "6 AM – 11 PM"
+    "hours": "6 AM – 11 PM",
+    "latitude": 34.1478,
+    "longitude": -118.1445
   },
   {
     "id": 8,
@@ -61,7 +75,9 @@
     "pricePerLiter": 1.52,
     "city": "Oakland",
     "address": "505 East Bay Ave",
-    "hours": "7 AM – 10 PM"
+    "hours": "7 AM – 10 PM",
+    "latitude": 37.8044,
+    "longitude": -122.2712
   },
   {
     "id": 9,
@@ -69,7 +85,9 @@
     "pricePerLiter": 1.44,
     "city": "Bakersfield",
     "address": "606 Highway Dr",
-    "hours": "5 AM – 11 PM"
+    "hours": "5 AM – 11 PM",
+    "latitude": 35.3733,
+    "longitude": -119.0187
   },
   {
     "id": 10,
@@ -77,7 +95,9 @@
     "pricePerLiter": 1.48,
     "city": "Santa Monica",
     "address": "707 Oceanfront Rd",
-    "hours": "6 AM – 12 AM"
+    "hours": "6 AM – 12 AM",
+    "latitude": 34.0195,
+    "longitude": -118.4912
   },
   {
     "id": 11,
@@ -85,7 +105,9 @@
     "pricePerLiter": 1.46,
     "city": "Glendale",
     "address": "808 Central Ave",
-    "hours": "6 AM – 10 PM"
+    "hours": "6 AM – 10 PM",
+    "latitude": 34.1425,
+    "longitude": -118.2551
   },
   {
     "id": 12,
@@ -93,7 +115,9 @@
     "pricePerLiter": 1.43,
     "city": "Anaheim",
     "address": "909 Stadium Dr",
-    "hours": "7 AM – 11 PM"
+    "hours": "7 AM – 11 PM",
+    "latitude": 33.8366,
+    "longitude": -117.9143
   }
 ]
 

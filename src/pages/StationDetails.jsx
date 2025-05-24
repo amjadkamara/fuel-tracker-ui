@@ -54,11 +54,7 @@ export default function StationDetails() {
           🕒 {station.hours}
         </div>
 
-        {station.latitude && station.longitude && (
-          <div className="text-sm text-gray-600 mb-2">
-            🌍 {station.latitude}, {station.longitude}
-          </div>
-        )}
+        
       </div>
 
       {/* Map Card */}
